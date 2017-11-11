@@ -1,0 +1,8 @@
+{
+  "name": "ci-sandbox",
+  "version": "1.0.0",
+  "description": "Personal sandbox to test CI services",
+  "main": "index.js",
+  "repository": "git@github.com:ewolfe/ci-sandbox.git",
+  "license": "MIT"
+}
