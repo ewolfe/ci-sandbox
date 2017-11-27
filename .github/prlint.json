@@ -1,13 +1,11 @@
 {
-  "pull_request": {
-    "title": [
-      {
-        "pattern": "^hello world",
-        "flags": ["i"]
-      },
-      {
-        "pattern": "^feature:"
-      }
-    ]
-  }
+  "title": [
+    {
+      "pattern": "^hello world",
+      "flags": ["i"]
+    },
+    {
+      "pattern": "^feature:"
+    }
+  ]
 }
