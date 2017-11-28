@@ -2,6 +2,7 @@
   "title": [
     {
       "pattern": "^feature:"
+      "flags": ["i"]
     }
   ]
 }
