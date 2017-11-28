@@ -1,11 +1,8 @@
 {
   "title": [
     {
-      "pattern": "^hello world",
+      "pattern": "^feature:",
       "flags": ["i"]
-    },
-    {
-      "pattern": "^feature:"
     }
   ]
 }
