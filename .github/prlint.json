@@ -1,7 +1,7 @@
 {
   "title": [
     {
-      "pattern": "^feature:"
+      "pattern": "^feature:",
       "flags": ["i"]
     }
   ]
