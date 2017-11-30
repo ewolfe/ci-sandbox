@@ -1,8 +1,7 @@
 {
   "title": [
     {
-      "pattern": "^feature:",
-      "message": "Your PR title must begin with 'feature:'"
+      "pattern": "^feature:"
     }
   ]
 }
