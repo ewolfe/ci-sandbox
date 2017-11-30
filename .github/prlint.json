@@ -2,7 +2,7 @@
   "title": [
     {
       "pattern": "^feature:",
-      "flags": ["i"]
+      "message": "Your PR title must begin with 'feature:'"
     }
   ]
 }
