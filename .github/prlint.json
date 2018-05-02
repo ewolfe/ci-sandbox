@@ -1,0 +1,8 @@
+{
+  "requested_reviewers.0.id": [
+    {
+      "pattern": "\\d",
+      "message": "Missing reviewer"
+    }
+  ]
+}
