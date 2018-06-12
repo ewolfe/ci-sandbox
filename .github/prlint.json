@@ -1,4 +1,11 @@
 {
+  "title": [
+    {
+      "pattern": "^(build|ci|docs|feat|fix|perf|refactor|style|test):\\s",
+      "message": "Your PR title doesn’t match our schema",
+      "detailsURL": "https://gph.is/1c4zf2O"
+    }
+  ],
   "requested_reviewers.0.id": [
     {
       "pattern": "\\d",
