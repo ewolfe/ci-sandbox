@@ -2,7 +2,7 @@
   "title": [
     {
       "pattern": "^(build|ci|docs|feat|fix|perf|refactor|style|test):\\s",
-      "message": "Your PR title doesn’t match our schema :/",
+      "message": "Your PR title doesn’t match our schema :(",
       "detailsURL": "http://i.imgur.com/kxldqFK.gif"
     }
   ],
