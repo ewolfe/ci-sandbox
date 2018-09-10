@@ -5,11 +5,5 @@
       "message": "Your PR title doesn’t match our schema :/",
       "detailsURL": "http://i.imgur.com/kxldqFK.gif"
     }
-  ],
-  "requested_reviewers.0.id": [
-    {
-      "pattern": "\\d",
-      "message": "Missing reviewer"
-    }
   ]
 }
